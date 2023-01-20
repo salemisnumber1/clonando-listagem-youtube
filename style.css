@@ -1,0 +1,1068 @@
+.youtube-pgina-inicial-container {
+  min-height: 100vh;
+}
+.youtube-pgina-inicial-youtube-pgina-inicial {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(249, 249, 249, 1);
+}
+.youtube-pgina-inicial-video {
+  top: 80px;
+  left: 246px;
+  width: 282px;
+  height: 262px;
+  display: flex;
+  padding: 16px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.youtube-pgina-inicial-image16 {
+  width: 250px;
+  height: 140px;
+  position: relative;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.youtube-pgina-inicial-video-details {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.youtube-pgina-inicial-channel-avatar {
+  width: 42px;
+  height: 42px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.youtube-pgina-inicial-text {
+  color: rgba(0, 0, 0, 1);
+  width: 197px;
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-text001 {
+  color: rgba(0, 0, 0, 1);
+  font-weight: 600;
+}
+.youtube-pgina-inicial-video01 {
+  top: 356px;
+  left: 542px;
+  width: 282px;
+  height: 262px;
+  display: flex;
+  padding: 16px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.youtube-pgina-inicial-image1601 {
+  width: 250px;
+  height: 140px;
+  position: relative;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.youtube-pgina-inicial-video-details01 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.youtube-pgina-inicial-channel-avatar01 {
+  width: 42px;
+  height: 42px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.youtube-pgina-inicial-text011 {
+  color: rgba(0, 0, 0, 1);
+  width: 197px;
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-text012 {
+  color: rgba(0, 0, 0, 1);
+  font-weight: 600;
+}
+.youtube-pgina-inicial-video02 {
+  top: 356px;
+  left: 246px;
+  width: 282px;
+  display: flex;
+  padding: 16px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.youtube-pgina-inicial-image1602 {
+  width: 250px;
+  height: 140px;
+  position: relative;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.youtube-pgina-inicial-video-details02 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.youtube-pgina-inicial-channel-avatar02 {
+  width: 42px;
+  height: 42px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.youtube-pgina-inicial-text022 {
+  color: rgba(0, 0, 0, 1);
+  width: 197px;
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-text023 {
+  color: rgba(0, 0, 0, 1);
+  font-weight: 600;
+}
+.youtube-pgina-inicial-video03 {
+  top: 632px;
+  left: 1134px;
+  width: 282px;
+  display: flex;
+  padding: 16px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.youtube-pgina-inicial-image1603 {
+  width: 250px;
+  height: 140px;
+  position: relative;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.youtube-pgina-inicial-video-details03 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.youtube-pgina-inicial-channel-avatar03 {
+  width: 42px;
+  height: 42px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.youtube-pgina-inicial-text033 {
+  color: rgba(0, 0, 0, 1);
+  width: 197px;
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-text034 {
+  color: rgba(0, 0, 0, 1);
+  font-weight: 600;
+}
+.youtube-pgina-inicial-video04 {
+  top: 80px;
+  left: 542px;
+  width: 282px;
+  height: 262px;
+  display: flex;
+  padding: 16px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.youtube-pgina-inicial-image1604 {
+  width: 250px;
+  height: 140px;
+  position: relative;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.youtube-pgina-inicial-video-details04 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.youtube-pgina-inicial-channel-avatar04 {
+  width: 42px;
+  height: 42px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.youtube-pgina-inicial-text044 {
+  color: rgba(0, 0, 0, 1);
+  width: 197px;
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-text045 {
+  color: rgba(0, 0, 0, 1);
+  font-weight: 600;
+}
+.youtube-pgina-inicial-video05 {
+  top: 632px;
+  left: 246px;
+  width: 282px;
+  height: 262px;
+  display: flex;
+  padding: 16px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.youtube-pgina-inicial-image1605 {
+  width: 250px;
+  height: 140px;
+  position: relative;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.youtube-pgina-inicial-video-details05 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.youtube-pgina-inicial-channel-avatar05 {
+  width: 42px;
+  height: 42px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.youtube-pgina-inicial-text055 {
+  color: rgba(0, 0, 0, 1);
+  width: 197px;
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-text056 {
+  color: rgba(0, 0, 0, 1);
+  font-weight: 600;
+}
+.youtube-pgina-inicial-video06 {
+  top: 356px;
+  left: 838px;
+  width: 282px;
+  height: 262px;
+  display: flex;
+  padding: 16px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.youtube-pgina-inicial-image1606 {
+  width: 250px;
+  height: 140px;
+  position: relative;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.youtube-pgina-inicial-video-details06 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.youtube-pgina-inicial-channel-avatar06 {
+  width: 42px;
+  height: 42px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.youtube-pgina-inicial-text066 {
+  color: rgba(0, 0, 0, 1);
+  width: 197px;
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-text067 {
+  color: rgba(0, 0, 0, 1);
+  font-weight: 600;
+}
+.youtube-pgina-inicial-video07 {
+  top: 80px;
+  left: 838px;
+  width: 282px;
+  height: 262px;
+  display: flex;
+  padding: 16px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.youtube-pgina-inicial-image1607 {
+  width: 250px;
+  height: 140px;
+  position: relative;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.youtube-pgina-inicial-video-details07 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.youtube-pgina-inicial-channel-avatar07 {
+  width: 42px;
+  height: 42px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.youtube-pgina-inicial-text077 {
+  color: rgba(0, 0, 0, 1);
+  width: 197px;
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-text078 {
+  color: rgba(0, 0, 0, 1);
+  font-weight: 600;
+}
+.youtube-pgina-inicial-video08 {
+  top: 632px;
+  left: 542px;
+  width: 282px;
+  height: 262px;
+  display: flex;
+  padding: 16px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.youtube-pgina-inicial-image1608 {
+  width: 250px;
+  height: 140px;
+  position: relative;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.youtube-pgina-inicial-video-details08 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.youtube-pgina-inicial-channel-avatar08 {
+  width: 42px;
+  height: 42px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.youtube-pgina-inicial-text088 {
+  color: rgba(0, 0, 0, 1);
+  width: 197px;
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-text089 {
+  color: rgba(0, 0, 0, 1);
+  font-weight: 600;
+}
+.youtube-pgina-inicial-video09 {
+  top: 356px;
+  left: 1134px;
+  width: 282px;
+  height: 262px;
+  display: flex;
+  padding: 16px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.youtube-pgina-inicial-image1609 {
+  width: 250px;
+  height: 140px;
+  position: relative;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.youtube-pgina-inicial-video-details09 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.youtube-pgina-inicial-channel-avatar09 {
+  width: 42px;
+  height: 42px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.youtube-pgina-inicial-text099 {
+  color: rgba(0, 0, 0, 1);
+  width: 197px;
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-text100 {
+  color: rgba(0, 0, 0, 1);
+  font-weight: 600;
+}
+.youtube-pgina-inicial-video10 {
+  top: 80px;
+  left: 1134px;
+  width: 282px;
+  height: 262px;
+  display: flex;
+  padding: 16px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.youtube-pgina-inicial-image1610 {
+  width: 250px;
+  height: 140px;
+  position: relative;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.youtube-pgina-inicial-video-details10 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.youtube-pgina-inicial-channel-avatar10 {
+  width: 42px;
+  height: 42px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.youtube-pgina-inicial-text110 {
+  color: rgba(0, 0, 0, 1);
+  width: 197px;
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-text111 {
+  color: rgba(0, 0, 0, 1);
+  font-weight: 600;
+}
+.youtube-pgina-inicial-video11 {
+  top: 632px;
+  left: 838px;
+  width: 282px;
+  height: 262px;
+  display: flex;
+  padding: 16px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.youtube-pgina-inicial-image1611 {
+  width: 250px;
+  height: 140px;
+  position: relative;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.youtube-pgina-inicial-video-details11 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.youtube-pgina-inicial-channel-avatar11 {
+  width: 42px;
+  height: 42px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.youtube-pgina-inicial-text121 {
+  color: rgba(0, 0, 0, 1);
+  width: 197px;
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-text122 {
+  color: rgba(0, 0, 0, 1);
+  font-weight: 600;
+}
+.youtube-pgina-inicial-sidebar {
+  top: 56px;
+  left: 0px;
+  width: 218px;
+  height: 968px;
+  display: flex;
+  padding: 24px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.youtube-pgina-inicial-menuitem {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 22px;
+}
+.youtube-pgina-inicial-home {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 16px;
+}
+.youtube-pgina-inicial-text132 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-menuitem01 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 22px;
+}
+.youtube-pgina-inicial-compass {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 16px;
+}
+.youtube-pgina-inicial-text134 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-menuitem02 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 22px;
+}
+.youtube-pgina-inicial-youtube {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 16px;
+}
+.youtube-pgina-inicial-text136 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-menuitem03 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 22px;
+}
+.youtube-pgina-inicial-disc {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 16px;
+}
+.youtube-pgina-inicial-text138 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-menuitem04 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 22px;
+}
+.youtube-pgina-inicial-thumbsup {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 16px;
+}
+.youtube-pgina-inicial-text140 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-menuitem05 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 22px;
+}
+.youtube-pgina-inicial-clock {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 16px;
+}
+.youtube-pgina-inicial-text142 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-menuitem06 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 22px;
+}
+.youtube-pgina-inicial-download {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 16px;
+}
+.youtube-pgina-inicial-text144 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-menuitem07 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 22px;
+}
+.youtube-pgina-inicial-film {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 16px;
+}
+.youtube-pgina-inicial-text146 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-menuitem08 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 22px;
+}
+.youtube-pgina-inicial-book {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 16px;
+}
+.youtube-pgina-inicial-text148 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-menuitem09 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.youtube-pgina-inicial-award {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 16px;
+}
+.youtube-pgina-inicial-text150 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.youtube-pgina-inicial-menu {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 56px;
+  display: flex;
+  padding: 0 24px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.youtube-pgina-inicial-left {
+  width: 146px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.youtube-pgina-inicial-menu1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.youtube-pgina-inicial-youtube1 {
+  top: 2px;
+  left: 56px;
+  width: 90px;
+  height: 20px;
+  position: absolute;
+  border-color: transparent;
+}
+.youtube-pgina-inicial-center {
+  width: 404px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.youtube-pgina-inicial-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 348px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(204, 204, 204, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.youtube-pgina-inicial-rectangle2 {
+  top: 0px;
+  left: 347px;
+  width: 57px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(204, 204, 204, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.youtube-pgina-inicial-search {
+  top: 8px;
+  left: 361px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.youtube-pgina-inicial-right {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  justify-content: flex-end;
+}
+.youtube-pgina-inicial-video12 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 24px;
+}
+.youtube-pgina-inicial-bell {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 24px;
+}
+.youtube-pgina-inicial-avatar {
+  width: 34px;
+  height: 34px;
+  position: relative;
+  border-color: transparent;
+}
